@@ -23,3 +23,5 @@ It will provide the log values and will provide a chart. It will also carry forw
 # Other Calculations
 
 In this window the user will come across several terms to be computed, but there is nothing to worry since the necessary details from chart window has been sent over to this window and now the user only needs to input a single value and the rest will be done by the application.
+
+![c](https://user-images.githubusercontent.com/40135714/41211004-64fa388c-6d52-11e8-9b03-e11283c20614.png)
