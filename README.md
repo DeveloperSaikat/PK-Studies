@@ -1,4 +1,4 @@
-# PK-Studies-
+# PK-Studies
 PK Studies are key activities of early drug development
 
 ## What is pharmacokinetics?
